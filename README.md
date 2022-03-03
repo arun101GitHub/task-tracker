@@ -1,4 +1,5 @@
 # ArunTask
+This project builds app for task tracker to manage tasks with crud operations.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.5.
 
